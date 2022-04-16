@@ -173,9 +173,7 @@ function Contact() {
                       <div className='text pl-3'>
                         <p>
                           <span>Website: </span>
-                          <a href='/home'>
-                            https://jalaramenterprise.github.io
-                          </a>
+                          <a href='#'>https://jalaramenterprise.github.io</a>
                         </p>
                       </div>
                     </div>
